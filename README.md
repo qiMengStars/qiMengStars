@@ -21,7 +21,7 @@ My username `qiMengStars` can also be my English name. (It doesn't matter whethe
   
 My English isn't perfect, so I often use translation tools. 
     
-Thanks for bearing with me!
+So thanks for bearing with me!
 
 
 
