@@ -16,7 +16,7 @@ You can call me `qiMeng` or use my username `qiMengStars`.
 
 - About Language
   
-My English isn't perfect, so I often use translation tools. 
+My English might not be perfect, but I'm always happy to chat!  
     
 So thanks for bearing with me!
 
@@ -24,7 +24,7 @@ So thanks for bearing with me!
 
 常用.NET技术栈 / Common .NET Technology Stack
 
-可莉和小草真可爱🌟 / klee & nahida are so cute
+可莉和小草真可爱🌟 / Klee & Nahida are the cutest!
 
 **Happy coding!**
 
