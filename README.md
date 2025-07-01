@@ -1,4 +1,4 @@
-# 这里是柒梦染星河！
+# 这里是柒梦染星河！🌠
 
 仰望漫天星辰的梦
 
@@ -16,7 +16,7 @@ You can call me `qiMeng` or use my username `qiMengStars`.
 
 - About Language
   
-My English might not be perfect, but I'm always happy to chat!  
+My English is limited, and I usually use translation tools—but I'm always happy to chat!🌈
     
 - 其它 / Others
 
