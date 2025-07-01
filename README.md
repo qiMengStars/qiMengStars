@@ -9,12 +9,9 @@
 **很高兴见到你，祝你开心！/ Nice to meet you! Wishing you lots of happiness!**
 
 - About Name
-  
-my name is `柒梦染星河`, You can pronounce it like `qī mèng rǎn xīng hé` in Pinyin. So excited to meet you all!
 
- If you're unsure how to say them, you can just ignore the tones and say `qi meng ran xing he` instead. You can also call me `qiMeng`.
-
-My username `qiMengStars` can also be my English name. (It doesn't matter whether there's an "s" or not)
+My name is `柒梦染星河` (Pronounced: `qi meng ran xing he`).  
+You can call me `qiMeng` or use my username `qiMengStars`.
 
 
 - About Language
@@ -22,6 +19,15 @@ My username `qiMengStars` can also be my English name. (It doesn't matter whethe
 My English isn't perfect, so I often use translation tools. 
     
 So thanks for bearing with me!
+
+- 其它 / Others
+
+常用.NET技术栈 / Common .NET Technology Stack
+
+可莉和小草真可爱🌟 / klee & nahida are so cute
+
+**Happy coding!**
+
 
 
 
