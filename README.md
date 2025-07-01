@@ -18,8 +18,6 @@ You can call me `qiMeng` or use my username `qiMengStars`.
   
 My English might not be perfect, but I'm always happy to chat!  
     
-So thanks for bearing with me!
-
 - 其它 / Others
 
 常用.NET技术栈 / Common .NET Technology Stack
