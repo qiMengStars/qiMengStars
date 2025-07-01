@@ -1,16 +1,27 @@
-## Hi there 👋
+# 这里是柒梦染星河！
 
-<!--
-**qiMengStars/qiMengStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+仰望漫天星辰的梦
 
-Here are some ideas to get you started:
+成为繁星中的一点
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+梦染群星，终抵彼方
+
+**很高兴见到你，祝你开心！/ Nice to meet you! Wishing you lots of happiness!**
+
+- About Name
+  
+my name is `柒梦染星河`, You can pronounce it like `qī mèng rǎn xīng hé` in Pinyin. So excited to meet you all!
+
+ If you're unsure how to say them, you can just ignore the tones and say `qi meng ran xing he` instead. You can also call me `qiMeng`.
+
+My username `qiMengStars` can also be my English name. (It doesn't matter whether there's an "s" or not)
+
+
+- About Language
+  
+My English isn't perfect, so I often use translation tools. 
+    
+Thanks for bearing with me!
+
+
+
