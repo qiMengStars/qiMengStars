@@ -1,10 +1,6 @@
 # 这里是柒梦染星河！🌠
 
-仰望漫天星辰的梦
-
-成为繁星中的一点
-
-梦染群星，终抵彼方
+一颗追梦的星星
 
 **很高兴见到你，祝你开心！/ Nice to meet you! Wishing you lots of happiness!**
 
