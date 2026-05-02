@@ -4,7 +4,9 @@
 
 **很高兴见到你，祝你开心！/ Nice to meet you! Wishing you lots of happiness!**
 
-- [个人博客 / Blog](https://blog.usisy.com/)
+- 来看一场流星雨吧⬇️ / Let's watch a starfall⬇️
+
+  [个人博客 / Blog](https://blog.usisy.com/)
 
 - About Language
   
@@ -12,7 +14,7 @@ My English is limited, and I usually use translation tools—but I'm always happ
     
 - 其它 / Others
 
-常用.NET技术栈 / Common .NET Technology Stack
+偏爱 .NET & C# / Big fan of .NET & C#
 
 可莉和小草真可爱🌟 / Klee & Nahida are the cutest!
 
