@@ -4,7 +4,7 @@
 
 **很高兴见到你，祝你开心！/ Nice to meet you! Wishing you lots of happiness!**
 
-- 来看一场流星雨吧⬇️ / Let's watch a starfall⬇️
+- 来看一场流星雨吧 / Let's watch a starfall
 
   [个人博客 / Blog](https://blog.usisy.com/)
 
