@@ -6,7 +6,7 @@
 
 - 来看一场流星雨吧 / Let's watch a starfall
 
-  [个人博客 / Blog](https://blog.usisy.com/)
+  [个人博客 / Blog](https://blog.xinghe.info/)
 
 - About Language
   
