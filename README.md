@@ -6,15 +6,13 @@
 
 - 来看一场流星雨吧 / Let's watch a starfall
 
-  [个人博客 / Blog](https://blog.xinghe.info/)
-
 - About Language
-  
-My English is limited, and I usually use translation tools—but I'm always happy to chat!🌈
+
+English not good, usually use translation tool, but happy to chat！
     
 - 其它 / Others
 
-偏爱 .NET & C# / Big fan of .NET & C#
+Modern .NET & C# is all you need
 
 可莉和小草真可爱🌟 / Klee & Nahida are the cutest!
 
